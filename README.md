@@ -32,6 +32,8 @@ I am building end-to-end data solutions using this modern tech stack:
 
 ## 🚦 Pipeline Progress
 
+<div align="center">
+
 | Module | Topic | Key Skills | Status |
 | :--- | :--- | :--- | :--- |
 | **01** | **Containerization & IaC** | Docker, GCP, Terraform, Postgres | ✅ **Done** |
@@ -41,6 +43,8 @@ I am building end-to-end data solutions using this modern tech stack:
 | **05** | **Batch Processing** | Spark SQL, PySpark | ⬜ Waiting |
 | **06** | **Streaming** | Kafka, Stream Processing | ⬜ Waiting |
 | **Project**| **The Finale** | End-to-End Pipeline Implementation | ⬜ Pending |
+
+</div>
 
 
 ## 📂 Repository Map
