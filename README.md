@@ -66,9 +66,7 @@ I share my daily updates, bugs I've squashed, and lessons learned on LinkedIn. F
 
 <div align="center">
 
-| | | |
-|:---:|:---:|:---:|
-| [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmed-mustafa-3827a31b7/) | [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/ahmadxr) | [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ahmed.mustafa.erfan@gmail.com) |
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmed-mustafa-3827a31b7/)&nbsp;&nbsp;[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ahmadxr)&nbsp;&nbsp;[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ahmed.mustafa.erfan@gmail.com)
 
 </div>
 
