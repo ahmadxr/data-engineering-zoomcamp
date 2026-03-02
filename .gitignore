@@ -21,3 +21,4 @@ venv/
 
 # Local data files
 03-data-warehouse/data/
+.tmp/
