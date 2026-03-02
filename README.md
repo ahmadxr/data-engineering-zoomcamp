@@ -26,7 +26,7 @@ I am building end-to-end data solutions using this modern tech stack:
 
 | **Infrastructure** | **Orchestration** | **Warehousing** | **Transformation** | **Processing** |
 | :---: | :---: | :---: | :---: | :---: |
-| ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) <br> ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white) | ![Kestra](https://img.shields.io/badge/Kestra-79178D?style=flat-square&logo=kestra&logoColor=white) | ![BigQuery](https://img.shields.io/badge/BigQuery-669DF6?style=flat-square&logo=googlebigquery&logoColor=white) | ![dbt](https://img.shields.io/badge/dbt-FF694B?style=flat-square&logo=dbt&logoColor=white) | ![Spark](https://img.shields.io/badge/Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white) |
+| ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) <br> ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white) | ![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white) | ![BigQuery](https://img.shields.io/badge/BigQuery-669DF6?style=flat-square&logo=googlebigquery&logoColor=white) | ![dbt](https://img.shields.io/badge/dbt-FF694B?style=flat-square&logo=dbt&logoColor=white) | ![Spark](https://img.shields.io/badge/Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white) |
 
 </div>
 
@@ -37,11 +37,11 @@ I am building end-to-end data solutions using this modern tech stack:
 | Module | Topic | Key Skills | Status |
 | :--- | :--- | :--- | :--- |
 | **01** | **Containerization & IaC** | Docker, GCP, Terraform, Postgres | ✅ **Done** |
-| **02** | **Orchestration** | Kestra Flows, ETL Pipelines | 🔄 **Active** |
-| **03** | **Data Warehouse** | BigQuery Partitioning & Clustering | ⬜ Waiting |
-| **04** | **Analytics Engineering** | dbt Data Modeling, Macros | ⬜ Waiting |
-| **05** | **Batch Processing** | Spark SQL, PySpark | ⬜ Waiting |
-| **06** | **Streaming** | Kafka, Stream Processing | ⬜ Waiting |
+| **02** | **Orchestration** | Airflow DAGs, ETL Pipelines | ✅ **Done** |
+| **03** | **Data Warehouse** | BigQuery Partitioning & Clustering | ✅ **Done** |
+| **04** | **Analytics Engineering** | dbt Data Modeling, Macros | ✅ **Done** |
+| **05** | **Batch Processing** | Spark SQL, PySpark | ✅ **Done** |
+| **06** | **Streaming** | Kafka, Stream Processing | 🔄 **Active** |
 | **Project**| **The Finale** | End-to-End Pipeline Implementation | ⬜ Pending |
 
 </div>
